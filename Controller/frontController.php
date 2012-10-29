@@ -1,3 +1,3 @@
 <?php
 echo "This is first controller!";
-echo "Hello from Github! :-)";
+echo "Hello from Online! :-)";
