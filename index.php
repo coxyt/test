@@ -9,4 +9,4 @@ class MyClass {
 }
 
 ?>
-For second commit!
+For second commit
