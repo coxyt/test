@@ -1,2 +1,4 @@
-this is master
+<?php
+echo "this is test.php on master";
+
 
